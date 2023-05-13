@@ -34,8 +34,8 @@ SampleIDs = colnames(exprs_original)
 evaluate_correction(exprs_original,
                     exprs_correctted,
                     data_cols = SampleIDs)
-
-
-
-
 ```
+
+## Acknowledgment:
+
+The creation of this software was supported by the Polish National Science Centre, grant No. 2016/23/D/ST7/03665.
